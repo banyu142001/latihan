@@ -1,4 +1,7 @@
 Recomen bahasa pemrograman dong
 
 - PHP untuk (backend)
+- Javascript unutk (server)
+- Pyton unutk (database)
+- Figma untuk (desain mockup)
 - Java untuk (backend)
