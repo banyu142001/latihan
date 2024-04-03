@@ -9,3 +9,6 @@ Recomen bahasa pemrograman dong
 ===================================================
 - Angular untuk (tampilan)
 - Mongo DB untuk (database)
+- React untuk ( tampilan )
+- Postgre SQL unutk ( database )
+
