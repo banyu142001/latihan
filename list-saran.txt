@@ -7,3 +7,5 @@ Recomen bahasa pemrograman dong
 - Java untuk (backend)
 - Framework Laravel untuk ( projek janga panjang )
 ===================================================
+- Angular untuk (tampilan)
+- Mongo DB untuk (database)
