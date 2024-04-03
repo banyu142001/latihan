@@ -12,3 +12,7 @@ Recomen bahasa pemrograman dong
 - React untuk ( tampilan )
 - Postgre SQL unutk ( database )
 
+tambahan dari saya pak 
+ - Framework Tailwinds CSS untuk (UI)
+ - Viu JS
+
