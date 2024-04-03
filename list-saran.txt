@@ -3,3 +3,5 @@ Recomen bahasa pemrograman dong
 - PHP untuk (backend)
 - Java untuk (backend)
 - Framework Laravel untuk ( projek janga panjang )
+- React untuk ( tampilan )
+- Postgre SQL unutk ( database )
