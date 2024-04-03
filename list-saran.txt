@@ -1,7 +1,14 @@
 Recomen bahasa pemrograman dong
 
 - PHP untuk (backend)
+- Javascript unutk (server)
+- Pyton unutk (database)
+- Figma untuk (desain mockup)
 - Java untuk (backend)
 - Framework Laravel untuk ( projek janga panjang )
+===================================================
+- Angular untuk (tampilan)
+- Mongo DB untuk (database)
 - React untuk ( tampilan )
 - Postgre SQL unutk ( database )
+
