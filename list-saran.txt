@@ -5,3 +5,4 @@ Recomen bahasa pemrograman dong
 - Pyton unutk (database)
 - Figma untuk (desain mockup)
 - Java untuk (backend)
+- Framework Laravel untuk ( projek janga panjang )
