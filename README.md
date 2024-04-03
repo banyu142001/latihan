@@ -1,2 +1,2 @@
 # latihan
-Repo latihan branc dan marg
+Repo latihan branc dan merge
